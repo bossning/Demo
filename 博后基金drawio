@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T05:32:52.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="dC3BKNTCFyFp8uoDW_-0" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T07:58:45.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="8_uY1YmuWpDYqhE1RhgK" version="14.5.1" type="github">
   <diagram id="QERXfLdkSVQLSc9VqPvu" name="第 1 页">
-    <mxGraphModel dx="3197" dy="-1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1848" dy="-1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,7 +133,7 @@
         <mxCell id="LbW7LOv9sEjATPBET5Md-29" value="揭示有机种植土壤下辣椒差异性根系分泌物对BM400功能基因调控的相关分子机制" style="whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="-568.6300000000001" y="3502.9999999999995" width="450.25" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LbW7LOv9sEjATPBET5Md-30" value="揭示关键根系分泌物组分（或组合）强化BM400根系生态位的竞争抑制辣椒疫霉侵入的作用和分子机制" style="whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="LbW7LOv9sEjATPBET5Md-30" value="揭示关键根系分泌物组分（或组合）强化BM400基因通路&#xa;竞争辣椒根系生态位抑制疫霉侵入的作用和物理机制" style="whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="17.75" y="3480" width="591.61" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LbW7LOv9sEjATPBET5Md-31" value="&lt;span style=&quot;font-size: 21.333px ; text-indent: -24px&quot;&gt;采用Illumina对&lt;/span&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;BM400转录组测序&lt;/span&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;（不同终浓度总差异根系分泌物与BM400共培养）&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
@@ -256,7 +256,7 @@
         <mxCell id="LbW7LOv9sEjATPBET5Md-53" value="&lt;span style=&quot;font-size: 21.33px&quot;&gt;有/无疫霉菌存在体外短期共培养实验&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;观察差异根系分泌物强化BM400-&lt;/span&gt;&lt;i style=&quot;font-size: 21.33px&quot;&gt;gfp&lt;/i&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;根系疫霉侵入位点定殖效率&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="6.25" y="3310.58" width="618" height="54.42" as="geometry" />
         </mxCell>
-        <mxCell id="LbW7LOv9sEjATPBET5Md-54" value="&lt;span style=&quot;font-size: 21.33px&quot;&gt;人工气候室盆栽实验&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;验证外源添加关键根系分泌物对强化&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 21.33px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;BM400&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;根际定殖和抑制辣椒疫病的作用&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;&lt;br style=&quot;font-size: 21.33px&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;verticalAlign=middle;fontSize=21.33;" vertex="1" parent="1">
+        <mxCell id="LbW7LOv9sEjATPBET5Md-54" value="&lt;span style=&quot;font-size: 21.333px;&quot;&gt;人工气候室盆栽实验&lt;/span&gt;&lt;span style=&quot;font-size: 21.333px;&quot;&gt;验证外源添加关键根系分泌物对&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 21.333px;&quot;&gt;BM400突变体&lt;/span&gt;&lt;span style=&quot;font-size: 21.333px;&quot;&gt;根际定殖丰度和位点以及抑制辣椒疫病的化学&lt;/span&gt;&lt;span style=&quot;font-size: 21.333px;&quot;&gt;强化&lt;/span&gt;&lt;span style=&quot;font-size: 21.333px;&quot;&gt;作用&lt;/span&gt;&lt;span style=&quot;font-size: 21.333px;&quot;&gt;&lt;br style=&quot;font-size: 21.333px;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;verticalAlign=middle;fontSize=21.333;" vertex="1" parent="1">
           <mxGeometry x="8.62" y="3390" width="612.25" height="64" as="geometry" />
         </mxCell>
         <mxCell id="LbW7LOv9sEjATPBET5Md-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
